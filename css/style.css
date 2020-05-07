@@ -1,0 +1,22 @@
+.image {
+    width: 100%;
+    height: auto;
+}
+.content {
+        height:190px;
+}
+.met {
+    background-color: white;
+    padding: 15px;
+}
+.all {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: white;
+}
+.me {
+    color: red;
+}
+.content2 {
+    height: 115px;
+}
